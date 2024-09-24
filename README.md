@@ -18,7 +18,7 @@
 
 # Sub modules
 
-[Ссылка на репозиторий блога на Django]()
+[Ссылка на репозиторий блога на Django](https://github.com/fpmi-hci-2024/project14-web-Zhang020101)
 
 # Usage
 
