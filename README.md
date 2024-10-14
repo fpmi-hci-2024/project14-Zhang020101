@@ -10,7 +10,7 @@
 ## Документация
 
 * [Лабораторная работа 1](https://docs.google.com/document/d/1Tgzn55QkJ4B9Z_pgLJY1-GLjokK-CfAMa3ybcVt4xlg/edit)
-* [Лабораторная работа 2]
+* [Лабораторная работа 2](https://docs.google.com/document/d/11awyavvYsKCx6bnYtMJYiZSQ0W6SIr0ZLp9HVbDlHxk/edit?tab=t.0)
 
 # Installation
 
