@@ -11,7 +11,7 @@
 
 * [Лабораторная работа 1](https://docs.google.com/document/d/1Tgzn55QkJ4B9Z_pgLJY1-GLjokK-CfAMa3ybcVt4xlg/edit)
 * [Лабораторная работа 2](https://docs.google.com/document/d/11awyavvYsKCx6bnYtMJYiZSQ0W6SIr0ZLp9HVbDlHxk/edit?tab=t.0)
-* [Лабораторная работа 3](https://docs.google.com/document/d/1HJqB3D5jLNcfSCAKEP4yRHVejgcVSM0iQQEpBvOJ1R0/edit?addon_store&tab=t.0)
+* [Лабораторная работа 4](https://docs.google.com/document/d/1HJqB3D5jLNcfSCAKEP4yRHVejgcVSM0iQQEpBvOJ1R0/edit?addon_store&tab=t.0)
 
 # Installation
 
